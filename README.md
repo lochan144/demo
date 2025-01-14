@@ -1,4 +1,4 @@
-# demo 1
+# demo
 
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
